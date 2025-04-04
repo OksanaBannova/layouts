@@ -1,6 +1,8 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/4k8kvgx9k3uk9dx1?svg=true)](https://ci.appveyor.com/project/OksanaBannova/layouts)
 
 
+[GitHub Pages](https://oksanabannova.github.io/layouts/)
+
 Расположение товаров
 ===
 
